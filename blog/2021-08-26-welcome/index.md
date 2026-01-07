@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [stefan-jung]
+authors: [slorber]
 tags: [welcome]
 ---
 

@@ -156,3 +156,8 @@ const config = {
 };
 
 export default config;
+// export default {
+//   // ...
+//   plugins: ['content-blog', 'content-pages'],
+//   themes: ['classic'],
+// };
